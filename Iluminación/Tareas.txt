@@ -1,0 +1,18 @@
+montaje de escena completo
+integracion de elementos
+simulacion de eclipse y luz
+iluminacion general de escena
+configuracion de camaras
+render
+
+COSAS QUE HACER
+- investigar luces ambientales/ ILUMINACION GENERAL --> Mario
+- investigar eclipse --> Mario
+
+- investigar transiciones/moviminetos de camaras --> Espi
+- investigar configuración camaras --> Espi
+
+- mejores formas de renderizado --> Cretu
+- investigación addons utiles (iluminacion, renderizado, optimizacion)--> Cretu
+
+
